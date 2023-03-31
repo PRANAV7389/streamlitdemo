@@ -6,8 +6,6 @@ import yfinance as yf
 
 st.write("""
 # Simple Stock Price app
-## (Rakh lena na job mai apne company mai pleaseeeeeeee)
-
 Shown are the stock closing price and volume of google!
 """)
 
